@@ -1,1 +1,1 @@
-# divyanshi
+So far, I explored the fundamentals of web development, focusing on HTML and CSS. I learned how to structure web pages using HTML elements like headers, paragraphs, images, and buttons. Through CSS, I understood how to style these elements with properties such as layout, color, typography, and spacing. I also worked on building and customizing simple web page layouts, improving my understanding of responsive design, visual hierarchy, and user-friendly interfaces.
